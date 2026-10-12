@@ -83,13 +83,9 @@ const char* password = "YOUR_WIFI_PASSWORD";
 ```text
 ultraspeaker/
 ├── src/               # ESP32 firmware source code
-├── hardware/          # Circuit diagrams, PCB files, or design notes
-├── cad/               # SolidWorks enclosure and mechanical design files
-├── docs/              # Additional documentation and references
+├── old/               # Original Arduino Code used with the driver circuit
 └── README.md
 ```
-
-Adjust the folder names to match your repository structure.
 
 ## Development Notes
 
